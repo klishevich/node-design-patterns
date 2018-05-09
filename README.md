@@ -1,1 +1,1 @@
-# Node Design Patterns
+# Node.js Design Patterns
